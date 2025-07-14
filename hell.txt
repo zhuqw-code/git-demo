@@ -15,5 +15,5 @@ hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
-hello atguigu! hello git!   添加修改信息
-再次添加修改信息
+hello atguigu! hello git!   添加信息
+再改信息
